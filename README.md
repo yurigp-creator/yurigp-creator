@@ -3,7 +3,7 @@
 <html lang="pt-BR">
   
 <header>
-  <h1>Yuri.Gp</h1>
+  <h1>Yuri Gonçalves</h1>
   <p>Estudante | Desenvolvedor</p>
 </header>
 
